@@ -1,0 +1,1 @@
+<?php /**PATH C:\mamp\htdocs\geniusbank\project\resources\views/includes/user/footer.blade.php ENDPATH**/ ?>

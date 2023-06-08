@@ -1,0 +1,1 @@
+<?php /**PATH /home/royalscripts/public_html/test/geniusbank/project/resources/views/includes/user/footer.blade.php ENDPATH**/ ?>
